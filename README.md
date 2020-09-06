@@ -3,9 +3,9 @@ A code to jointly invert dispersion curves for R waves
 
 MC_R_CyU_VariableThickness.m
 
-This code performs Monte Carlo inversion (Markov Chain MC) of Rayleigh wave dispersion curves (Phase and Group jointly). It searches for a 1D high probability model that fits the observed data. The code uses surf96 from Herrmann’s Seismology codes (http://www.eas.slu.edu/eqc/eqccps.html). These set of codes should be installed before attempting to run the inversion. 
+This code performs Monte Carlo inversion (Markov Chain MC) of Rayleigh wave dispersion curves (Phase and Group jointly). It searches for a 1D high probability model that fits the observed data. The code uses surf96 from Herrmann’s Seismology codes (http://www.eas.slu.edu/eqc/eqccps.html). This set of codes should be installed before attempting to run the inversion. 
 
-As any MC code, running this takes time! Speed depends on your computer and Matlab version. Inversion might take up to a day depending on the number of iterations, but experience suggest that 100000 iterations are OK to solve a problem. Be patient
+As any MC code, running this takes time! Speed depends on your computer and Matlab version. Inversion might take up to a day depending on the number of iterations, but experience suggest that 100000 iterations are OK to solve a problem. Be patient!
 
 Please read: Bosch (1999; 2001 and 2005) and Mosegaard & Sambridge (2002) for the method and background. 
 
