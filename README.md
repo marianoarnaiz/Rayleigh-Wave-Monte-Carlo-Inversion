@@ -40,4 +40,5 @@ Tips:
 
 Make a test run before changing some parameters.
 Change some parameters to see what happens!
+Check the example images. Example 1 holds the Markov Chain and the fit to the phase curve. Example 2 the probability function.
 Any questions, email me!.
